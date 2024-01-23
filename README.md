@@ -13,8 +13,8 @@ python pyemocase.py 'test123   ,,,test'
 
 
 Note:
-This code was written in such way to take as little lines as possible while still allowing command line arguments
+This code was written in such way to take as little lines as possible while still allowing command line arguments \
 Aka - this Readme is longer than source code
 
-Sincerely sorry,
+Sincerely sorry, \
 Creator
